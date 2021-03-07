@@ -2,7 +2,7 @@
 
 Aplikasi ini dibuat sebagai bahan referensi paket soal Aplikasi Pengelolaan Laundry UKK RPL, semoga bermanfaat. :)
 
-Website: https://www.plajarikode.com
+Website: https://www.plajarikode.com <br/>
 Youtube channel: PlajariKode
 
 ## Import database
