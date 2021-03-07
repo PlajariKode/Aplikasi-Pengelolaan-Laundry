@@ -28,7 +28,7 @@ SET time_zone = "+00:00";
 -- Buat database `db_laundry`
 -- 
 
-CREATE DATABASE `db_laundry` IF NOT EXISTS;
+CREATE DATABASE IF NOT EXISTS `db_laundry`;
 USE `db_laundry`;
 
 -- --------------------------------------------------------
