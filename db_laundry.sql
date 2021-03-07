@@ -24,6 +24,15 @@ SET time_zone = "+00:00";
 
 -- --------------------------------------------------------
 
+-- 
+-- Buat database `db_laundry`
+-- 
+
+CREATE DATABASE `db_laundry` IF NOT EXISTS;
+USE `db_laundry`;
+
+-- --------------------------------------------------------
+
 --
 -- Struktur dari tabel `tb_detail_transaksi`
 --
